@@ -52,8 +52,6 @@ public class Main {
         System.out.println(NewDaysToLoseWeight + " дней потребуется спортсмену, чтобы сбросить 7 кг.");
 
 
-
-
         //Задание 5
         // значения до повышения на 10 %
         int mashaSalaryPerMonth = 67_760;
